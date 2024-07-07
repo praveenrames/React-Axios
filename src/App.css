@@ -1,0 +1,35 @@
+html,
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+  padding-bottom: 60px;
+}
+.App h1 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+.App .header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.main-heading {
+  font-family: "Aref Ruqaa Ink", serif;
+}
+.sub-heading{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color:black;
+}
